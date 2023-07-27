@@ -7,12 +7,12 @@
 
 /* @font-face {
     font-family: Canela;
-    src: local("Canela"),url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/font/font/Canela-Regular.woff2') format("woff2"),url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/font/font/Canela-Regular.woff') format("woff"),url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/font/font/Canela-Regular.ttf') format("truetype"),url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/font/font/Canela-Regular.otf') format("opentype");
+    src: local("Canela"),url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/font/Canela-Regular.woff2') format("woff2"),url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/font/Canela-Regular.woff') format("woff"),url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/font/Canela-Regular.ttf') format("truetype"),url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/font/Canela-Regular.otf') format("opentype");
     font-weight: 400
 } */
 
 @font-face {
     font-family: Canela;
-    src: url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/font/font/Canela-Regular.woff2') format("woff2"),url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/font/font/Canela-Regular.woff') format("woff"),url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/font/font/Canela-Regular.ttf') format("truetype"),url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/font/font/Canela-Regular.otf') format("opentype");
+    src: url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/font/Canela-Regular.woff2') format("woff2"),url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/font/Canela-Regular.woff') format("woff"),url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/font/Canela-Regular.ttf') format("truetype"),url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/font/Canela-Regular.otf') format("opentype");
     font-weight: 400;
 }
