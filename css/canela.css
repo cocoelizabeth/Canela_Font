@@ -5,8 +5,14 @@
     font-style: normal;
 } */
 
+/* @font-face {
+    font-family: Canela;
+    src: local("Canela"),url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/font/font/Canela-Regular.woff2') format("woff2"),url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/font/font/Canela-Regular.woff') format("woff"),url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/font/font/Canela-Regular.ttf') format("truetype"),url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/font/font/Canela-Regular.otf') format("opentype");
+    font-weight: 400
+} */
+
 @font-face {
     font-family: Canela;
-    src: local("Canela"),url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/css/canela.css') format("woff2"),url(/assets/fonts/Canela-Regular.woff) format("woff"),url(/assets/fonts/Canela-Regular.ttf) format("truetype"),url(/assets/fonts/Canela-Regular.otf) format("opentype");
+    src: url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/font/font/Canela-Regular.woff2') format("woff2"),url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/font/font/Canela-Regular.woff') format("woff"),url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/font/font/Canela-Regular.ttf') format("truetype"),url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/font/font/Canela-Regular.otf') format("opentype");
     font-weight: 400
 }
