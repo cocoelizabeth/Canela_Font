@@ -1,7 +1,12 @@
-@font-face {
+/* @font-face {
     font-family: 'Canela';
-    /* src: url('https://cdn.rawgit.com/h-ibaldo/Raleway_Fixed_Numerals/master/font/rawline-100.eot'); */
+    src: url('https://cdn.rawgit.com/h-ibaldo/Raleway_Fixed_Numerals/master/font/rawline-100.eot');
     src: url('https://cdn.rawgit.com/h-ibaldo/Raleway_Fixed_Numerals/master/font/rawline-100.woff2') format('woff2');
     font-style: normal;
-}
+} */
 
+@font-face {
+    font-family: Canela;
+    src: local("Canela"),url('https://raw.githubusercontent.com/cocoelizabeth/Canela_Font/main/css/canela.css') format("woff2"),url(/assets/fonts/Canela-Regular.woff) format("woff"),url(/assets/fonts/Canela-Regular.ttf) format("truetype"),url(/assets/fonts/Canela-Regular.otf) format("opentype");
+    font-weight: 400
+}
